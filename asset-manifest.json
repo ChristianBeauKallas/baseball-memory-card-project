@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/baseball-memory-card-project/static/css/main.41dd1165.css",
+    "main.js": "/baseball-memory-card-project/static/js/main.b9481532.js",
+    "static/js/787.ee0a681f.chunk.js": "/baseball-memory-card-project/static/js/787.ee0a681f.chunk.js",
+    "static/media/BarryBonds.png": "/baseball-memory-card-project/static/media/BarryBonds.e5c086b987b71d99f7ce.png",
+    "static/media/DerekJeter.png": "/baseball-memory-card-project/static/media/DerekJeter.e1e1e428455a11688df4.png",
+    "static/media/JavyBaez.png": "/baseball-memory-card-project/static/media/JavyBaez.2aa624eb638b844e03c2.png",
+    "static/media/AlexRodriguez.png": "/baseball-memory-card-project/static/media/AlexRodriguez.d29e75f8d7f7b8aa425b.png",
+    "static/media/MannyMachado.png": "/baseball-memory-card-project/static/media/MannyMachado.19be5e612d9f0a0dccbc.png",
+    "static/media/RonaldAcuna.png": "/baseball-memory-card-project/static/media/RonaldAcuna.4ae5d9aaa4a34bdcf240.png",
+    "static/media/FernandoTatis.png": "/baseball-memory-card-project/static/media/FernandoTatis.88eae6b79d2e15deb0bf.png",
+    "static/media/MookieBets.png": "/baseball-memory-card-project/static/media/MookieBets.42f3b4ea0d2ca1cba57d.png",
+    "static/media/AaronJudge.png": "/baseball-memory-card-project/static/media/AaronJudge.058240de25277d015bea.png",
+    "static/media/MikeTrout.png": "/baseball-memory-card-project/static/media/MikeTrout.3cfabf310383f5b78bc5.png",
+    "index.html": "/baseball-memory-card-project/index.html",
+    "main.41dd1165.css.map": "/baseball-memory-card-project/static/css/main.41dd1165.css.map",
+    "main.b9481532.js.map": "/baseball-memory-card-project/static/js/main.b9481532.js.map",
+    "787.ee0a681f.chunk.js.map": "/baseball-memory-card-project/static/js/787.ee0a681f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41dd1165.css",
+    "static/js/main.b9481532.js"
+  ]
+}
