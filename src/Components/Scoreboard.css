@@ -1,0 +1,32 @@
+.scoreboardContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.scoreboard {
+    margin-top: 20px;
+    width: 80%;
+}
+
+.scoreboard table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.scoreboard th, .scoreboard td {
+    padding: 10px;
+    border: 1px solid #000;
+    text-align: center;
+}
+
+.scoreboard th {
+    background-color: #006400;
+    color: #fff;
+}
+
+@media (max-width: 600px) {
+    .scoreboard {
+        width: 90%;
+    }
+}
